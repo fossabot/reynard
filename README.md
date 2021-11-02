@@ -57,6 +57,7 @@ My [personal blog](http://blog.hyfather.com) uses Reynard.
 
 ### Landing Page
 ![Landing page](https://raw.github.com/hyfather/reynard/master/screenshots/landingpage.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyfather%2Freynard.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyfather%2Freynard?ref=badge_shield)
 
 ### Blog Post
 ![Blog post](https://raw.github.com/hyfather/reynard/master/screenshots/blogpost.png)
@@ -64,3 +65,7 @@ My [personal blog](http://blog.hyfather.com) uses Reynard.
 ### Footer
 ![Footer](https://raw.github.com/hyfather/reynard/master/screenshots/footer.png)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyfather%2Freynard.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyfather%2Freynard?ref=badge_large)
